@@ -1,3 +1,3 @@
-# Navigating the Scrappy Project: A Guided Cohort Journey"
+# Navigating the Scrappy Project: A Guided Cohort Journey
 
 
