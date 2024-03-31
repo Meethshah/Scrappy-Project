@@ -1,15 +1,12 @@
-# Navigating the Scrappy Project: A Guided Cohort Journey for Upskilling
-
-<h1 align="center"><strong>Navigating the Scrappy Project: A Guided Cohort Journey for Upskilling
-</strong></h1>
+<h1 align="center"><strong>Navigating the Scrappy Project: A Guided Cohort Journey for Upskilling</strong></h1>
 
 <p align="center">
     <img src="https://tenor.com/view/song-celebration-drinking-happy-irish-gif-14576008.gif" alt="Excited" width="400" height="300">
 </p>
 
-<h2><strong>About Me</strong></h2>
+<h2 align="center"><strong>Introduction</strong></h2>
 
-<p>Hello everyone! My name is Meeth Kumar Shah, and I'm thrilled to be part of the Scrappy Project cohort. Currently, I'm in my final year pursuing a Bachelor of Technology in Computer Science and Engineering. Known for my <em>problem-solving skills</em> and <em>coding abilities</em>, I thrive on challenges that push me to think <em>creatively</em> and <em>innovatively</em>.</p>
+<p style="background-color:#f0f8ff; padding:20px; border-radius:10px;">Hello everyone! My name is Meeth Kumar Shah, and I'm thrilled to be part of the Scrappy Project cohort. Currently, I'm in my final year pursuing a Bachelor of Technology in Computer Science and Engineering. Known for my <em>problem-solving skills</em> and <em>coding abilities</em>, I thrive on challenges that push me to think <em>creatively</em> and <em>innovatively</em>.</p>
 
 <h2><strong>Interests and Hobbies</strong></h2>
 
