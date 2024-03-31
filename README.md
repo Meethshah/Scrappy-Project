@@ -1,4 +1,4 @@
 # Navigating the Scrappy Project: A Guided Cohort Journey
 
 
-![Excited](https://justmaths.co.uk/2016/10/25/couldnt-let-it-pass-by-without/celebration-gif/.gif)
+![Excited](https://tenor.com/view/celebrate-will-ferrell-party-wedding-crashers-happy-gif-5486376.gif)
